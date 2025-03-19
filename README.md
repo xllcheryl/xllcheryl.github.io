@@ -43,5 +43,5 @@ Tech product manager with 5+ years improving search products through cross-funct
 
 - [PCEP™ – Certified Entry-Level Python Programmer](https://verify.openedg.org/?id=DCwS.Qso7.e7i0)
 
-# See My Cat
-<img src="tuo.jpg" width = 40%>
+# See My Cat TuoTuo
+<img src="tuo.jpg" width = 30%>
