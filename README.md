@@ -13,7 +13,7 @@ Tech product manager with 5+ years improving search products through cross-funct
 ### Communication University of China, Beijing, China
 
 - **GPA**: 4.0/4.0
-- **Dual Qualification**: Chinese Literature (Major) & Media Studies (Minor)
+- **Dual Qualification**: Chinese Language and Literature & Journalism
 
 ---
 
