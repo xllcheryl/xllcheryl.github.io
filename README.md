@@ -11,6 +11,7 @@ Tech product manager with 5+ years improving search products through cross-funct
 ## Master (2025-)
 
 ### University of Colorado Boulder, Online
+- Master of Science in Artificial Intelligence
 
 ## Bachelor (2015-2019)
 
